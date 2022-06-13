@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this first project is to create a basic website using HTML. This website will contain a homepage that links to three different recipes. Each recipe page will contain a photo, a list of ingredients, and a description on how to put it all together!
