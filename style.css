@@ -1,0 +1,30 @@
+/*HOMEPAGE*/
+.intro{
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.food-links{
+    font-size: 30px;
+
+}
+
+.picture-size{
+    width: 500px;
+    height: auto;
+}
+
+/*COOKIE*/
+.header-cookie{
+    color: blue;
+}
+
+/*KATSUDON*/
+.header-katsu{
+    color: blue;
+}
+
+/*PIZZA*/ 
+.header-pizza{
+    color: blue;
+}
